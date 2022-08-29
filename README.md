@@ -1,7 +1,7 @@
 # 2022.08 POERFOLIO PROJECT
 - <i>Made Date: 2022.08.25~</i>
 
-## 프포트폴리오 사이트: https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
+## 포트폴리오 사이트: https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
 
 (임시 메모)
 1. 반응형으로 만들어야 한다.(PC <-> Mobile)
