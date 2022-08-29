@@ -1,6 +1,8 @@
 # 2022.08 POERFOLIO PROJECT
 - <i>Made Date: 2022.08.25~</i>
 
+## 프포트폴리오 사이트: https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
+
 (임시 메모)
 1. 반응형으로 만들어야 한다.(PC <-> Mobile)
 2. 부트스트랩 5를 활용해야 한다. (활용법 제대로 이해해아 한다.)
