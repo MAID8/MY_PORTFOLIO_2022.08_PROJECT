@@ -46,7 +46,7 @@
   [충돌인지는 모르겠지만 particle과 함께 쓰면 particle 에픽트가 아예<br> pageable 뒤로 가거나 없어지는 문제가 발생했다.]<br>
   -> 둘 중 하나를 포기해야 한다.<br>
     => 해결함... + fixed<br>
- <!-- <div id="particles-js"></div> -->를<br>
+<div id="particles-js"></div>를<br>
  메인 컨테이너 위에다 잡고 써야한다.<br>
 <br>
 <br>
