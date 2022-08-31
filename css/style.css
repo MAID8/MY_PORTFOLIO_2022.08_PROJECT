@@ -1,0 +1,45 @@
+/* (1st) 각종 CSS 임포트 */
+@import url(reset.css);
+/* PAGEABLE CSS */
+@import url(pageable.min.css);
+
+
+/* WEB FONTS */
+@import url('http://fonts.googleapis.com/earlyaccess/notosanskr.css');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&family=Noto+Sans+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&display=swap');
+@import url('http://fonts.cdnfonts.com/css/open-sans');
+@import url('http://fonts.cdnfonts.com/css/ceab');
+@import url(//db.onlinewebfonts.com/c/548e77e130ea884c764acabe1ba1ad63?family=0Arame);
+
+@font-face {
+  font-family: "0Arame";
+  src: url("//db.onlinewebfonts.com/t/548e77e130ea884c764acabe1ba1ad63.eot");
+  src: url("//db.onlinewebfonts.com/t/548e77e130ea884c764acabe1ba1ad63.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/548e77e130ea884c764acabe1ba1ad63.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/548e77e130ea884c764acabe1ba1ad63.woff") format("woff"), url("//db.onlinewebfonts.com/t/548e77e130ea884c764acabe1ba1ad63.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/548e77e130ea884c764acabe1ba1ad63.svg#0Arame") format("svg");
+}
+
+/* 
+각각의 폰트 패밀리들
+
+순서: 위부터
+font-family: 'Noto Sans KR', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans Light', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'CEAB', sans-serif;
+font-family: 'Arame Bold';
+*/
+
+
+/* 파티클 전용 */
+#particles {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+
+  z-index: -1;
+  opacity: 0.8;
+}
