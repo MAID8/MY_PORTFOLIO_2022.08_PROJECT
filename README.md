@@ -57,7 +57,7 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
 |JavaScript|HTML5|CSS3|FIGMA|
 |---|---|---|---|
 
-## 사용한 플러그인 Js(+ 라이브러리 Js)
+## 사용한 플러그인 Js(+라이브러리 Js)
 |Swiper|Bootstrap 5|PAGEABLE|Particle|
 |---|---|---|---|
 
