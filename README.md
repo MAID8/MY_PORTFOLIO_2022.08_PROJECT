@@ -16,7 +16,7 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
 ## 업데이트 내역
 <details>
 
-### Major Update - 기능 구현(+변경점)
+### MAJOR UPDATE - 기능 구현(+변경점)
 <ul>
   <li>
     부트스트랩 기능을 아예 삭제(포기)하고 페이지를 원할하게끔 변경됨.
