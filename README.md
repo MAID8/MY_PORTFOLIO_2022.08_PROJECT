@@ -47,7 +47,8 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
 - ver 1.30a: 2022.09.02 - 프로필 항목 스킬 파트 숫자 애니메이션 추가
 - ver 1.31a: 2022.09.03 - Style.css 파일 구성 변경 -> PC/MOBILE 스타일로 분리(+미디어쿼리)
 - ver 1.32: 2022.09.04 - 포트폴리오 항목 추가 +README.md 구성 변경
-
+<br>
+  <p>a = Alpha, b = Beta</p>
 
 </details>
 
