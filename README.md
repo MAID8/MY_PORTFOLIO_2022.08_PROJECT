@@ -41,7 +41,8 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
     각각의 스타일과 미디어쿼리를 따루 추가함.
   </li>
   <li>
-    AOS 애니메이션 추가 예정(딜레이 포함)
+    AOS 애니메이션 추가 예정(딜레이 포함)<br>
+    https://github.com/michalsnik/aos
   </li>
 </ul>
 <br>
