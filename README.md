@@ -1,7 +1,6 @@
 
 # 2022.08 MY WEB PORTFOLIO PROJECT
-### <i>Made Date: 2022.08.25~</i>
-#### Last Update: 2022.09.04
+#### Made Date: 2022.08.25~  //  Last Update: 2022.09.04
 #### <b><i>2022.08 WEB PORTFOLIO PROJECT ver 1.32</i></b>
 
 ## 포트폴리오 링크 <br>
