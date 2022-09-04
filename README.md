@@ -40,6 +40,9 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
     기존의 스타일 파일 1개로 PC와 모바일 화면으로 구성되었지만 많은 문제를 야기하여<br>
     각각의 스타일과 미디어쿼리를 따루 추가함.
   </li>
+  <li>
+    AOS 애니메이션 추가 예정(딜레이 포함)
+  </li>
 </ul>
 <br>
 
