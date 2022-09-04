@@ -3,11 +3,15 @@
 #### Made Date: 2022.08.25~  //  Last Update: 2022.09.04
 #### <b><i>2022.08 WEB PORTFOLIO PROJECT ver 1.32</i></b>
 
+<br>
+
 ## 포트폴리오 링크 <br>
 https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
 <br>
 
 ------------------------------------------------------------
+
+<br>
 
 ## 업데이트 내역
 <details>
