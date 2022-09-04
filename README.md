@@ -60,7 +60,7 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
 ## 문제점(갱신)
 <details>
 <br>
-A. ★ 페이지어블 모바일 모드에서 각 페이지의 버튼들이 작동이 안되는 버그가 발생함.<br>
+A. ★ 페이지어블 "모바일 모드"에서 각 페이지의 버튼들이 작동이 안되는 버그가 발생함.(미해결)<br>
 https://github.com/Mobius1/Pageable/issues/22 
   <br><br>
   
