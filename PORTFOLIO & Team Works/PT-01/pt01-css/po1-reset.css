@@ -1,0 +1,57 @@
+/* 모바일과 PC의 똑같은 값 영역이면 리셋에다가 적용 */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-color01: #fff ;
+  --main-color02: #000 ;
+  --logo-color: #1F4787;
+  --sub-color: #3983fa;
+  --sub-color2: #1455e7;
+
+  --PC-header-height: 60px ;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  width: 100%;
+  background-color: #fff;
+
+}
+
+.headerContainer {
+  background-color: #fff;
+
+  height: 100%;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
