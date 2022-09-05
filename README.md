@@ -1,7 +1,7 @@
 
 # 2022.08 MY WEB PORTFOLIO PROJECT
 #### Made Date: 2022.08.25~  //  Last Update: 2022.09.05
-#### <b><i>2022.08 WEB PORTFOLIO PROJECT ver 1.33b</i></b>
+#### <b><i>2022.08 WEB PORTFOLIO PROJECT ver 1.34</i></b>
 <p>PC: 1920 x 1080p FHD Criterion // MOBILE: Galaxy S10+ Criterion (w: 412px, h: 869px, pixel ratio: 3.5)</p>
 
 <br>
@@ -9,7 +9,6 @@
 ## 포트폴리오 링크 <br>
 https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
 <br><p>전체 화면으로 보시는 것을 권장합니다.</p>
-<br>
 
 <br>
 
@@ -63,6 +62,8 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
 - ver 1.31a: 2022.09.03 - Style.css 파일 구성 변경 -> PC/MOBILE 스타일로 분리(+미디어쿼리)
 - ver 1.32: 2022.09.04 - 전체 페이지 구성 완료, 포트폴리오 항목 추가 +README.md 구성 변경
 - ver 1.33b: 2022.09.05 - 각 메뉴별 호버 스타일 & 애니메이션 추가. (추후 대폭 수정 예정)
+- ver 1.34: 2022.09.05 - (핫픽스) 프로필 배경영상 사이즈 문제 수정<br>
+몇몇 폰트는 CDN에서 일반 파일로 변경
 <br>
   <p>a = Alpha, b = Beta</p>
 
@@ -91,9 +92,27 @@ C. 부트스트랩 안쓰고 할지 아님 계속 이어서 써야할지 고민�
 D. 부트스트랩 안에 AOS 애니메이션 적용이 안된다.<br>
 << 대안: 1. 스킬>>
 
+E. 로딩 속도의 문제 - 최적화 작업이 필요하다.(아래의 최적화 항목 참고)
+
 
 </details>
+<br>
 
+## 최적화 문제 관련
+<details>
+TEST 01 - WebPageTest <br>
+![1](https://user-images.githubusercontent.com/105405062/188457408-5a972e3c-1c83-4c8f-9a81-89bc919a07c8.jpg)
+<br>
+
+TEST 02- pingdom <br>
+![2](https://user-images.githubusercontent.com/105405062/188457744-7dd14903-63b8-4f63-89e7-1fb1151fe68f.jpg)
+<br>
+
+TEST 03- GTmetrix <br>
+![3](https://user-images.githubusercontent.com/105405062/188457838-d5202005-c5f5-443b-ab9a-ac9a305ad0db.jpg)
+<br>
+
+</details>
 
 <br>
 
