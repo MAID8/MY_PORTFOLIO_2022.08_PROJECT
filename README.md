@@ -45,7 +45,7 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
     https://github.com/michalsnik/aos
   </li>
   <li>
-    포트폴리오 홈페이지 추가 
+    포트폴리오 홈페이지 추가중
   </li>
 </ul>
 <br>
