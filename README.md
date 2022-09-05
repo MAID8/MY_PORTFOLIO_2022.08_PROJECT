@@ -8,6 +8,7 @@
 
 ## 포트폴리오 링크 <br>
 https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
+<br><p>전체 화면으로 보시는 것을 권장합니다.</p>
 <br>
 
 <br>
