@@ -102,8 +102,8 @@ D. 부트스트랩 안에 AOS 애니메이션 적용이 안된다.<br>
 |---|---|---|---|
 
 ## 사용한 플러그인 Js(+라이브러리 Js)
-|Swiper|Bootstrap 5|PAGEABLE|Particle|
-|---|---|---|---|
+|Swiper|PAGEABLE|Particle|
+|---|---|---|
 
 <br>
 
