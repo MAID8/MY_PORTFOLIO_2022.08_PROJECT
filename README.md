@@ -44,6 +44,9 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
     AOS 애니메이션 추가 예정(딜레이 포함)<br>
     https://github.com/michalsnik/aos
   </li>
+  <li>
+    포트폴리오 홈페이지 추가 
+  </li>
 </ul>
 <br>
 
