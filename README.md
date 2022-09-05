@@ -1,6 +1,6 @@
 
 # 2022.08 MY WEB PORTFOLIO PROJECT
-#### Made Date: 2022.08.25~  //  Last Update: 2022.09.04
+#### Made Date: 2022.08.25~  //  Last Update: 2022.09.05
 #### <b><i>2022.08 WEB PORTFOLIO PROJECT ver 1.33b</i></b>
 <p>PC: 1920 x 1080p FHD Criterion // MOBILE: Galaxy S10+ Criterion (w: 412px, h: 869px, pixel ratio: 3.5)</p>
 
