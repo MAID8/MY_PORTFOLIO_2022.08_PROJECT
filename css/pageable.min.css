@@ -1,0 +1,109 @@
+/*
+ Pageable
+ Copyright (c) 2017 Karl Saunders (http://mobius.ovh)
+ Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
+ and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
+
+ Version: 0.6.8
+
+*/
+
+
+/* PC Only */
+@media (min-width: 768px) {
+  .pg-pips {
+    position: fixed;
+    z-index: 1000
+  }
+  
+  .pg-pips ul {
+    margin: 0;
+    padding: 0
+  }
+  
+  .pg-vertical {
+    padding-right: 0;
+  }
+  
+  .pg-pips ul li {
+  
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    position: relative
+  }
+  
+  .pg-pips ul li {
+    margin-right: 3vw;
+  }
+  
+  .pg-pips ul li:hover a {
+    width: 12px;
+    height: 12px;
+    margin: -7px 0 0 -6px
+  }
+  
+  .pg-pips ul li a {
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    height: 4px;
+    width: 4px;
+    border: 0;
+    background: #fff;
+    left: 50%;
+    top: 50%;
+    margin: -2px 0 0 -2px
+  }
+  
+  .pg-pips ul li a.active,
+  .pg-pips ul li:hover a.active {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin: -10px 0 0 -10px;
+    border-radius: 100%
+  }
+  
+  /* 스크롤 파이프 색상 */
+  .pg-pips>ul>li>a {
+    background-color: #81e4fd;
+    text-shadow: 0px 0px 8px #fff;
+  }
+  
+  
+  .pg-vertical .pg-pips {
+    right: 30px;
+    top: 50%;
+    -webkit-transform: translate3d(0, -50%, 0);
+    transform: translate3d(0, -50%, 0)
+  }
+  
+  .pg-vertical .pg-pips li {
+    display: block
+  }
+  
+  .pg-horizontal .pg-pips {
+    bottom: 10px;
+    left: 50%;
+    -webkit-transform: translate3d(-50%, 0, 0);
+    transform: translate3d(-50%, 0, 0)
+  }
+  
+  .pg-horizontal .pg-pips li {
+    display: inline-block
+  }
+}
+
+
+
+
+/* Mobile Only */
+@media (max-width: 767px) {
+  .pg-pips {
+    display: none;
+  }
+}

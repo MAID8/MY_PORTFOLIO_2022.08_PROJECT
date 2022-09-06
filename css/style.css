@@ -1,0 +1,17 @@
+/* 파티클 전용 */
+#particles {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+
+  z-index: -1;
+  opacity: 0.8;
+}
+
+
+
+
+
+
+
