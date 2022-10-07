@@ -1,7 +1,7 @@
 
 # 2022.08 MY WEB PORTFOLIO PROJECT
 #### Made Date: 2022.08.25~  //  Last Update: 2022.09.06
-#### <b><i>2022.08 WEB PORTFOLIO PROJECT ver 1.36a</i></b>
+#### <b><i>2022.08 WEB PORTFOLIO PROJECT ver 1.4</i></b>
 <p>PC: 1920 x 1080p FHD Criterion // MOBILE: Galaxy S10+ Criterion (w: 412px, h: 869px, pixel ratio: 3.5)</p>
 
 <br>
@@ -73,6 +73,7 @@ https://asben1.github.io/MY_PORTFOLIO_2022.08_PROJECT/
 몇몇 폰트는 CDN에서 일반 파일로 변경
 - ver 1.35: 2022.09.06 - 로딩 스타일 버전 2로 변경
 - ver 1.36a~b: 2022.09.06 - PC/모바일 로딩 스크린 스타일 분리<br>1차 코드 최적화 작업. + 작품 디테일
+- ver 1.4: 2022.10.01
 <br>
 <br>
 
