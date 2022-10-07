@@ -1,0 +1,66 @@
+/* style.css 공통으로 사용하는 CSS */
+:root {
+  --brand-color: #fec82f;
+  --main-color: #fef200;
+  --sub-color: #ed1b25;
+  --bg-color-light: #f1f1f1;
+  --text-color-dark: #111;
+  --text-color-light: #666;
+  /* header 높이값 */
+  --pc-header-height: 90px;
+  --mobile-header-height: 60px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#main-header a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.btn {
+  font-size: 16px;
+  width: 245px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background: #ED1B25; */
+  color: #000;
+  border: 1px solid var(--sub-color);
+}
+
+.btn-detail {
+  background: #ED1B25;
+  color: #fff;
+}
+
+#main-header {
+  z-index: 999;
+}
